@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+
+This app displays the use of state, event handlers and list creation (via map) in React.
+
 ## Available Scripts
 
 In the project directory, you can run:
